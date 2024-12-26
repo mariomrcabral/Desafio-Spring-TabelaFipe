@@ -66,11 +66,5 @@ https://parallelum.com.br/fipe/api/v1/carros/marcas/21/modelos/560/anos/2003-1
 
 
 
-- Para podermos exibir em nossa aplicação as avaliações de todos os anos para esse modelo, será necessário trabalhar com as coleções e estruturas de repetição para poder exibir já todos as avaliações de todos os anos para o nosso usuário.
-- Utilize a biblioteca Jackson para a desserialização dos dados.
-- Modele as classes de acordo com o necessário para representar as marcas, modelos e dados dos veículos.
-- Relembre os conceitos vistos no curso para filtrar os modelos por um trecho do nome. 
 
 
-
-Bom desafio!
